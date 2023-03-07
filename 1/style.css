@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Mynerve&display=swap');
+
+* {
+   
+    background-color:white; 
+}
+
+p {
+font-family: 'Mynerve', cursive;
+font-size: 22px;
+
+}
+p.texto{
+border:rgb(4, 4, 59) solid 4px ;
+background-color: rgb(4, 4, 59);
+color:white; 
+}
+
+.caja{
+    width: 500px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 15px 15px;
+    display: inline-block;
+    border: 5px solid black ;
+    background-image: url("https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNkcHitTgAPXlnPJ9-H_moBqBR4GBm_opag&usqp=CAU");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.cd{
+background-color: blueviolet;
+color: black;
+text-align: center;
+}
+* h3{
+    background-color: rgb(173, 128, 216);
+    color: aqua;
+    text-align: center;
+}
+.bo{
+    padding: 8px 8px;
+    background-color: black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+
+}
+a:hover{
+    background-color: chartreuse;
+    color:black;
+    cursor: pointer;
+}
+
+
+
+

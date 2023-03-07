@@ -1,0 +1,36 @@
+#titulo {
+    color: tomato;
+}
+
+p.texto {
+    color:blue;
+}
+
+p.especial{
+    color:red;
+}
+
+div p{
+    color:green
+}
+div h2, div h3{
+    color:brown
+}
+
+* {
+font-size: 24px;
+color:black
+}
+
+/*esto es un comentario*/
+
+.color{
+    border: 5px black solid;
+}
+.caja {
+    width: 700px;
+    height: 200;
+    background-color: blueviolet;
+    margin: 15px 15px;
+    display: inline-block;
+}
